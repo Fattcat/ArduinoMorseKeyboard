@@ -269,52 +269,52 @@ void loop() {
   }
 */
 
-  if (digitalRead(buttonCPin) == LOW) {
+  if (digitalRead(button0Pin) == LOW) {
     playMorseCode(morseCodeLetters[37]); // Cislo 0
     delay(200);
   }
 
-  if (digitalRead(buttonCPin) == LOW) {
+  if (digitalRead(button1Pin) == LOW) {
     playMorseCode(morseCodeLetters[38]); // Cislo 1
     delay(200);
   }
 
-  if (digitalRead(buttonCPin) == LOW) {
+  if (digitalRead(button2Pin) == LOW) {
     playMorseCode(morseCodeLetters[39]); // Cislo 2
     delay(200);
   }
 
-  if (digitalRead(buttonCPin) == LOW) {
+  if (digitalRead(button3Pin) == LOW) {
     playMorseCode(morseCodeLetters[10]); // Cislo 3
     delay(200);
   }
 
-  if (digitalRead(buttonCPin) == LOW) {
+  if (digitalRead(button4Pin) == LOW) {
     playMorseCode(morseCodeLetters[40]); // Cislo 4
     delay(200);
   }
 
-  if (digitalRead(buttonCPin) == LOW) {
+  if (digitalRead(button5Pin) == LOW) {
     playMorseCode(morseCodeLetters[41]); // Cislo 5
     delay(200);
   }
 
-  if (digitalRead(buttonCPin) == LOW) {
+  if (digitalRead(button6Pin) == LOW) {
     playMorseCode(morseCodeLetters[42]); // Cislo 6
     delay(200);
   }
 
-  if (digitalRead(buttonCPin) == LOW) {
+  if (digitalRead(button7Pin) == LOW) {
     playMorseCode(morseCodeLetters[43]); // Písmeno 7
     delay(200);
   }
 
-  if (digitalRead(buttonCPin) == LOW) {
+  if (digitalRead(button8Pin) == LOW) {
     playMorseCode(morseCodeLetters[44]); // Písmeno 8
     delay(200);
   }
 
-  if (digitalRead(buttonCPin) == LOW) {
+  if (digitalRead(button9Pin) == LOW) {
     playMorseCode(morseCodeLetters[45]); // Písmeno 9
     delay(200);
   }
