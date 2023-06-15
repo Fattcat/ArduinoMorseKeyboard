@@ -10,7 +10,7 @@ This is Arduino code for transmit morse code with CC1101 and buzzer and 1 diode 
 5. Breadboard
 6. Wires (about 60 pcs)
 
-[To DO]
+[ To DO ]
 
 1. You need to buy all necessary components (aliexpress)
 2. I will add it as soon as possible ... MAYBE WITH PHOTOS
