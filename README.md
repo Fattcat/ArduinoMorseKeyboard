@@ -1,6 +1,7 @@
 # Arduino Morse Keyboard
 # Information
 This is Arduino code for transmit morse code with CC1101 and buzzer and 1 diode for show if is transmitting on 433 mhz with all alphabet and numbers.
+For example when You press button on whitch will be word A it will send MORSE Code for A
  
 # Need to buy
 1. Tested on Arduino Mega 2560 (You can use Uno, Nano , Mega 2560)
