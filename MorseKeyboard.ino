@@ -1,9 +1,13 @@
 // Piny pre tlačidlá pre písmená
+#define buzzerPin 13
+#define buttonPin 2
+
+bool buttonState = false;
+bool previousButtonState = false;
 
 const int buttonAPin = 2; // A
 const int buttonBPin = 3; // B
 const int buttonCPin = 4; // C
-
 const int buttonDPin = 5; // D
 const int buttonEPin = 6; // E
 const int buttonFPin = 7; // F
@@ -17,7 +21,7 @@ const int buttonMPin = 25; // M
 const int buttonNPin = 26; // N
 const int buttonOPin = 27; // O
 const int buttonPPin = 29; // P
-const int buttonWPin = 30; // Q
+const int buttonQPin = 30; // Q
 const int buttonRPin = 31; // R
 const int buttonSPin = 32; // S
 const int buttonTPin = 33; // T
@@ -31,7 +35,7 @@ const int buttonZPin = 39; // Z
 // Piny pre tlačidlá pre písmená
 
 const int button0Pin = 40; // 0
-const int button2Pin = 41; // 1
+const int button1Pin = 41; // 1
 const int button2Pin = 42; // 2
 const int button3Pin = 43; // 3
 const int button4Pin = 44; // 4
